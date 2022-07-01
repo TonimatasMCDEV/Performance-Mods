@@ -1,4 +1,4 @@
-# Fabric optimization mods.
+# Fabric Improvement Mods.
 
 ### Sodium
   - Version: 1.15.X | 1.16.X | 1.17.X | 1.18.X | 1.19
