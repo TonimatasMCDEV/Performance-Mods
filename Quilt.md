@@ -1,1 +1,1 @@
-# Quilt optimization mods.
+# Quilt Improvement Mods.
