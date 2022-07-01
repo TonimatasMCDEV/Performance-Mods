@@ -1,5 +1,5 @@
-# Optimization-Mods
-List of optimization mods for minecraft.
+# Improvement-Mods
+List of improvement mods for minecraft.
 
 ### Forge mods.
  - [Click here for open the list](https://github.com/TonimatasMCDEV/Optimization-Mods/blob/main/Forge.md)
