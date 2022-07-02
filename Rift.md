@@ -1,1 +1,1 @@
-# Rift Improvement Mods.
+# Rift Performance Mods.
