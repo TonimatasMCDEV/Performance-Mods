@@ -179,14 +179,14 @@
   - Version: 1.18.X | 1.19
   - Author: Kaworru
   - Fork: -
-  - Link: ### https://www.curseforge.com/minecraft/mc-mods/adaptive-performance-tweaks-core
+  - Link: https://www.curseforge.com/minecraft/mc-mods/adaptive-performance-tweaks-core
   - Dependence: -
   
 ### Adaptive Performance Tweaks: Gamerules
   - Version: 1.18.X | 1.19
   - Author: Kaworru
   - Fork: -
-  - Link: url
+  - Link: https://www.curseforge.com/minecraft/mc-mods/adaptive-performance-tweaks-gamerules
   - Dependence: Adaptive Performance Tweaks: Core
   
 ### Adaptive Performance Tweaks (Bundle)
@@ -209,3 +209,17 @@
   - Fork: -
   - Link: https://www.curseforge.com/minecraft/mc-mods/lithium-forge
   - Dependence: MixinBootstrap
+
+### Clumps
+  - Version: 1.10.2 | 1.11.2 | 1.12.X | 1.14.X | 1.15.2 | 1.16.X | 1.17.X | 1.18.X | 1.19
+  - Author: Jaredlll08
+  - Fork: -
+  - Link: https://www.curseforge.com/minecraft/mc-mods/clumps
+  - Dependence: -
+
+### FerriteCore
+  - Version: 1.16.X | 1.17.1 | 1.18.X | 1.19
+  - Author: jellysquid3_
+  - Fork: -
+  - Link: https://www.curseforge.com/minecraft/mc-mods/lithium-forge
+  - Dependence: -
