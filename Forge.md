@@ -221,5 +221,5 @@
   - Version: 1.16.X | 1.17.1 | 1.18.X | 1.19
   - Author: jellysquid3_
   - Fork: -
-  - Link: https://www.curseforge.com/minecraft/mc-mods/lithium-forge
+  - Link: https://www.curseforge.com/minecraft/mc-mods/ferritecore
   - Dependence: -
